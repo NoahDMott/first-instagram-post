@@ -1,0 +1,25 @@
+body{
+    background-color: black;
+}
+.post{
+    background-color: white;
+    width: 600px;
+    margin: auto;
+}
+.content img{
+    width: 600px;
+}
+.title{
+    display: flex;
+    padding: 10px;
+}
+.title img{
+    width: 50px;
+}
+.interactions{
+    width:540px;
+    display:inline-flex
+}
+.interactions img{
+    height: 40px;
+}
